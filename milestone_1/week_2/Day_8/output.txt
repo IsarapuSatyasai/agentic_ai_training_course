@@ -1,0 +1,111 @@
+TOKEN           | LEMMA           | POS      | ENTITY
+-------------------------------------------------------
+The             | the             | DET      | O
+tech            | tech            | NOUN     | O
+industry        | industry        | NOUN     | O
+is              | be              | AUX      | O
+evolving        | evolve          | VERB     | O
+rapidly         | rapidly         | ADV      | O
+in              | in              | ADP      | O
+2026            | 2026            | NUM      | DATE
+.               | .               | PUNCT    | O
+Yesterday       | yesterday       | NOUN     | DATE
+,               | ,               | PUNCT    | O
+Microsoft       | Microsoft       | PROPN    | ORG
+announced       | announce        | VERB     | O
+that            | that            | SCONJ    | O
+it              | it              | PRON     | O
+is              | be              | AUX      | O
+acquiring       | acquire         | VERB     | O
+a               | a               | DET      | O
+promising       | promising       | ADJ      | O
+robotics        | robotic         | NOUN     | O
+startup         | startup         | NOUN     | O
+based           | base            | VERB     | O
+in              | in              | ADP      | O
+London          | London          | PROPN    | GPE
+for             | for             | ADP      | O
+$               | $               | SYM      | MONEY
+2.4             | 2.4             | NUM      | MONEY
+billion         | billion         | NUM      | MONEY
+.               | .               | PUNCT    | O
+
+
+              | 
+
+              | SPACE    | O
+Satya           | Satya           | PROPN    | PERSON
+Nadella         | Nadella         | PROPN    | PERSON
+,               | ,               | PUNCT    | O
+the             | the             | DET      | O
+CEO             | CEO             | PROPN    | O
+,               | ,               | PUNCT    | O
+stated          | state           | VERB     | O
+that            | that            | SCONJ    | O
+they            | they            | PRON     | O
+are             | be              | AUX      | O
+looking         | look            | VERB     | O
+forward         | forward         | ADV      | O
+to              | to              | ADP      | O
+integrating     | integrate       | VERB     | O
+new             | new             | ADJ      | O
+AI              | AI              | PROPN    | ORG
+features        | feature         | NOUN     | O
+.               | .               | PUNCT    | O
+Engineers       | engineer        | NOUN     | O
+are             | be              | AUX      | O
+currently       | currently       | ADV      | O
+building        | build           | VERB     | O
+prototypes      | prototype       | NOUN     | O
+that            | that            | PRON     | O
+were            | be              | AUX      | O
+previously      | previously      | ADV      | O
+thought         | think           | VERB     | O
+impossible      | impossible      | ADJ      | O
+.               | .               | PUNCT    | O
+
+
+              | 
+
+              | SPACE    | O
+Global          | global          | ADJ      | O
+markets         | market          | NOUN     | O
+reacted         | react           | VERB     | O
+positively      | positively      | ADV      | O
+to              | to              | ADP      | O
+the             | the             | DET      | O
+news            | news            | NOUN     | O
+.               | .               | PUNCT    | O
+Meanwhile       | meanwhile       | ADV      | O
+,               | ,               | PUNCT    | O
+Apple           | Apple           | PROPN    | ORG
+and             | and             | CCONJ    | O
+Google          | Google          | PROPN    | ORG
+are             | be              | AUX      | O
+also            | also            | ADV      | O
+investing       | invest          | VERB     | O
+heavily         | heavily         | ADV      | O
+in              | in              | ADP      | O
+similar         | similar         | ADJ      | O
+technologies    | technology      | NOUN     | O
+across          | across          | ADP      | O
+Europe          | Europe          | PROPN    | LOC
+and             | and             | CCONJ    | O
+Asia            | Asia            | PROPN    | LOC
+.               | .               | PUNCT    | O
+Many            | many            | ADJ      | O
+employees       | employee        | NOUN     | O
+are             | be              | AUX      | O
+working         | work            | VERB     | O
+remotely        | remotely        | ADV      | O
+from            | from            | ADP      | O
+cities          | city            | NOUN     | O
+like            | like            | ADP      | O
+San             | San             | PROPN    | GPE
+Francisco       | Francisco       | PROPN    | GPE
+,               | ,               | PUNCT    | O
+Paris           | Paris           | PROPN    | GPE
+,               | ,               | PUNCT    | O
+and             | and             | CCONJ    | O
+Tokyo           | Tokyo           | PROPN    | GPE
+.               | .               | PUNCT    | O
