@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-classic
+langchain-openai
+langchain-community
+langchain-chroma
+langchain-experimental
+duckduckgo-search
+numexpr
+python-dotenv
+pypdf
+chromadb

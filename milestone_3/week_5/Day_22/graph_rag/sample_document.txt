@@ -1,0 +1,22 @@
+Satyasai Esarapu is a Senior AI Engineer at xAI Solutions Pvt Ltd, based in Hyderabad, Telangana. 
+He has been working on Advanced RAG systems since early 2024. His main focus areas include Chunking Strategies, 
+Chunk Enrichment, and Advanced Retrieval Techniques.
+
+On 15th March 2025, the team published a research paper titled "Hybrid Search and Reranking Strategies for Enterprise RAG". 
+This paper discusses how combining Vector Search with BM25 significantly improves retrieval accuracy. 
+It also highlights the importance of metadata filtering and cross-encoder reranking.
+
+The company is planning to expand its AI research lab to Bangalore and Pune by December 2025. 
+They are currently working with clients in Finance, Healthcare, and Legal domains. 
+
+Key challenges mentioned in the internal meeting on 10th May 2025 include:
+- Poor performance on domain-specific terminology
+- Difficulty in retrieving recent documents
+- High latency in production environments
+
+Satyasai recommended implementing Hybrid Search (Vector + BM25), Metadata Filtering by date and category, 
+and using FlashRank for fast reranking. The team also plans to experiment with ColBERT and ColPali 
+for better document understanding, especially for PDF-heavy use cases.
+
+Contact: satyasai.esarapu@xai.in | +91 98765 43210
+Last Updated: 25th May 2025

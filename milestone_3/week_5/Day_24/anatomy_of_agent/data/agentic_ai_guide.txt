@@ -1,0 +1,46 @@
+# Agentic AI Guide - For Teaching
+
+## What is Agentic AI?
+Agentic AI refers to AI systems that can act autonomously to achieve complex goals. Unlike traditional chatbots that only respond to prompts, Agentic Agents can plan, use tools, remember information, and reflect on their actions.
+
+## Core Components (Anatomy of AI Agent)
+
+1. Brain (LLM)
+   - The reasoning engine (GPT-4o, Claude, Grok, etc.)
+   - Responsible for decision making and planning
+
+2. Perception
+   - Takes input from users, documents, APIs, and environment
+
+3. Memory
+   - Short-term: Conversation history
+   - Long-term: Vector databases (Chroma, FAISS)
+
+4. Planning & Reasoning
+   - Breaks down big goals into smaller steps
+   - Uses frameworks like ReAct (Reason + Act)
+
+5. Tools
+   - Web Search, Calculator, Code Interpreter, RAG Retriever, etc.
+
+6. Action & Reflection
+   - Executes actions using tools
+   - Learns from results and improves
+
+## Why Use Agents?
+- Can handle multi-step tasks
+- Integrate with external systems
+- Reduce hallucination using RAG
+- Great for automation, research, and education
+
+## Example Use Cases
+- Research Assistant
+- Test Automation Agent
+- Personal AI Tutor
+- Document Analysis Agent
+
+This document is used for RAG demonstration in the live agent.
+Students can ask questions like:
+- "What are the core components of an AI Agent?"
+- "Explain ReAct framework"
+- "Why is memory important in agents?"
